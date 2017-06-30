@@ -1,0 +1,20 @@
+{
+    "name": "sheillendra/yii2-nova",
+    "description": "Yii2 Prestashop Nova",
+    "keywords": ["nova", "prestashop","sheillendra", "yii2", "yii"],
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Sheillendra",
+            "email": "sheillendra@yahoo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sheillendra\\nova\\": ""
+        }
+    }
+}
